@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/opportunity-management/static/css/main.d3dfb13a.css",
+    "main.js": "/opportunity-management/static/js/main.aee321fb.js",
+    "static/js/265.47877fd7.chunk.js": "/opportunity-management/static/js/265.47877fd7.chunk.js",
+    "index.html": "/opportunity-management/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.d3dfb13a.css",
+    "static/js/main.aee321fb.js"
+  ]
+}
