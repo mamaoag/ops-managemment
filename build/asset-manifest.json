@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/opportunity-management/static/css/main.d3dfb13a.css",
-    "main.js": "/opportunity-management/static/js/main.aee321fb.js",
-    "static/js/265.47877fd7.chunk.js": "/opportunity-management/static/js/265.47877fd7.chunk.js",
-    "index.html": "/opportunity-management/index.html"
+    "main.css": "/ops-managemment/static/css/main.d3dfb13a.css",
+    "main.js": "/ops-managemment/static/js/main.5e4e0e6e.js",
+    "static/js/265.47877fd7.chunk.js": "/ops-managemment/static/js/265.47877fd7.chunk.js",
+    "index.html": "/ops-managemment/index.html"
   },
   "entrypoints": [
     "static/css/main.d3dfb13a.css",
-    "static/js/main.aee321fb.js"
+    "static/js/main.5e4e0e6e.js"
   ]
 }

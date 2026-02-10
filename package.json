@@ -3,7 +3,7 @@
   "description": "AWS Partner Central API Opportunity Management Sample",
   "version": "0.2.4",
   "private": true,
-  "homepage": "https://mamaoag.github.io/ops-management",
+  "homepage": "https://master.d1lm0via1yrm6.amplifyapp.com/",
   "dependencies": {
     "@aws-sdk/client-partnercentral-selling": "^3.821.0",
     "@cloudscape-design/components": "^3.0.0",
